@@ -2,6 +2,8 @@
 
 
 **Bubble sort**
+
+
 Given an array of integers:
 
 [64, 34, 25, 12, 22, 11, 90]
